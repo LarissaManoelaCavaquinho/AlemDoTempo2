@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+body{
+  background: #8ebf2c;
+}
+p{
+  text-align: center;
+}
+em strong{
+  color: #914803;
+
+}
