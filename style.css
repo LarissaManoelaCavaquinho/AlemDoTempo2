@@ -5,6 +5,9 @@
 body{
   background: #8ebf2c;
 }
+#banner{
+  width:100%;
+}
 h1{
   text-align: center;
 }
