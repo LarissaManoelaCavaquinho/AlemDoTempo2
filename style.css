@@ -10,7 +10,12 @@ h1{
 }
 p{
   text-align: center;
+  font-size:20px;
 }
 em strong{
   color: #914803;
+}
+#missao{
+  font-size:30px;
+  
 }
