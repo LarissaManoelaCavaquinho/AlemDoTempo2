@@ -1,11 +1,14 @@
 body {
-    background: #068a22;
+    
 }
 
 #banner {
     width: 100%;
 }
-
+.principal{
+    background: #068a22;
+    padding:30px;
+}
 h1 {
     text-align: center;
 }
